@@ -1,6 +1,6 @@
 # 🧠 FórumHub - API REST com Spring Boot
 
-Projeto desenvolvido como parte de um desafio da Alura, com o objetivo de criar uma API REST para gerenciamento de tópicos de um fórum, com autenticação, autorização e boas práticas RESTful.
+Projeto desenvolvido como parte de um desafio da Alura, com o objetivo de criar uma API REST para gerenciamento de tópicos de um fórum, com autenticação, autorização e boas práticas.
 
 ## 🚀 Tecnologias Utilizadas
 
